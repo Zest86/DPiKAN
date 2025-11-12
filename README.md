@@ -11,7 +11,7 @@ pip install sklearn
 
 ## Usage
 
-To run the model results for the DPiKAN (PPG/mmWave) to BP estimation run:
+To run the model results for the DPiKAN BP estimation run:
 ```bash
 main.ipynb
 ```
